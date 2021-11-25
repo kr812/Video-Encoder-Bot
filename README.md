@@ -35,8 +35,10 @@ bash run.sh
 
 ### Credits
 - [ShannonScott](https://gist.github.com/ShannonScott) for [transcode_h265.py](https://gist.github.com/ShannonScott/6d807fc59bfa0356eee64fad66f9d9a8)
-- [viperadnan-git](https://github.com/viperadnan-git/video-encoder-bot) for queue etc.
+- [viperadnan-git](https://github.com/viperadnan-git/vide
 
 ### Copyright & License
-- Copyright &copy; 2021 &mdash; [WeebTime](https://github.com/WeebTime)
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kr812/Video-Encoder)
+
 - Licensed under the terms of the [GNU AFFERO GENERAL PUBLIC LICENSE](./LICENSE)
